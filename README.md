@@ -49,4 +49,4 @@ The data is publicly hosted for access. No separate open data license is specifi
 
 ## Citation
 
-If you use VSR-Live, please cite our work: xxx
+If you use VSR-Live, please cite our work **VSRBuff**
